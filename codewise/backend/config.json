@@ -1,0 +1,6 @@
+{
+    "MONGO_URI": "mongodb+srv://codewise:881286@codewise.d66vt.mongodb.net/codewiseDB?retryWrites=true&w=majority&appName=Codewise",
+    "PORT": 5000,
+    "JWT_SECRET": "mysecretkey123"
+  }
+  
